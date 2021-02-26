@@ -1,0 +1,13 @@
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\bin\Debug\netcoreapp3.1\Deliverable_One.exe
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\bin\Debug\netcoreapp3.1\Deliverable_One.deps.json
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\bin\Debug\netcoreapp3.1\Deliverable_One.runtimeconfig.json
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\bin\Debug\netcoreapp3.1\Deliverable_One.runtimeconfig.dev.json
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\bin\Debug\netcoreapp3.1\Deliverable_One.dll
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\bin\Debug\netcoreapp3.1\Deliverable_One.pdb
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\obj\Debug\netcoreapp3.1\Deliverable_One.AssemblyInfoInputs.cache
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\obj\Debug\netcoreapp3.1\Deliverable_One.AssemblyInfo.cs
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\obj\Debug\netcoreapp3.1\Deliverable_One.csproj.CoreCompileInputs.cache
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\obj\Debug\netcoreapp3.1\Deliverable_One.dll
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\obj\Debug\netcoreapp3.1\Deliverable_One.pdb
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\obj\Debug\netcoreapp3.1\Deliverable_One.genruntimeconfig.cache
+C:\Users\spcav\source\repos\Deliverable_One\Deliverable_One\obj\Debug\netcoreapp3.1\Deliverable_One.csprojAssemblyReference.cache
