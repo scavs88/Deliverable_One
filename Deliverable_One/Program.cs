@@ -25,11 +25,11 @@ namespace Deliverable_One
                 }
                 if (measurementUnit == "memes")
                 {
-                    Console.WriteLine(amount / .2 + "feet");
+                    Console.WriteLine(amount * .2 + "feet");
                 }
                 if (measurementUnit == "foot")
                 {
-                    Console.WriteLine(amount / 5 + "memes");
+                    Console.WriteLine(amount * 5 + "memes");
                 }
                 Console.WriteLine("Would you like to try another conversion? yes/no");
                 again = Console.ReadLine();
